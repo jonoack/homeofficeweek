@@ -1,7 +1,10 @@
 # theme: jekyll-serif-theme
-remote_theme: CloudCannon/hydra-jekyll-template
+remote_theme: zerostaticthemes/jekyll-serif-theme
+
+baseurl: "/homeofficeweek/"
+
 plugins:
-  - hydra-jekyll-template
+  - jekyll-remote-theme
   - jekyll-environment-variables
 #
 sass:
