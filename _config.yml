@@ -1,7 +1,8 @@
 # theme: jekyll-serif-theme
-remote_theme: zerostaticthemes/jekyll-serif-theme
 
 baseurl: "/homeofficeweek/"
+
+remote_theme: zerostaticthemes/jekyll-serif-theme
 
 plugins:
   - jekyll-remote-theme
