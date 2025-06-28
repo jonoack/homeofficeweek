@@ -2,6 +2,10 @@
 remote_theme: zerostaticthemes/jekyll-serif-theme
 plugins:
   - jekyll-remote-theme
+  - jekyll-environment-variables
 #
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
 title: Homeoffice Week der FeG Germering
 description: Bookmark this to keep an eye on my project updates!
