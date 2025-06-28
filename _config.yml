@@ -1,7 +1,7 @@
 # theme: jekyll-serif-theme
-remote_theme: jeffreytse/jekyll-theme-yat
+remote_theme: CloudCannon/hydra-jekyll-template
 plugins:
-  - jekyll-theme-yat
+  - hydra-jekyll-template
   - jekyll-environment-variables
 #
 sass:
